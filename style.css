@@ -1,0 +1,23 @@
+#buscador{
+    align-content: center;
+    background-image: url("../image/gotas.jpg");
+}
+
+#jda{
+    
+   
+    background-image: url("../image/jda.png");
+}
+
+#prFila{
+    background-color: black;
+    text-decoration: overline;
+    color: aliceblue;
+}
+
+#iconos{
+    margin-left: auto;
+}
+.btn btn-primary{
+    align-items: center;
+}
